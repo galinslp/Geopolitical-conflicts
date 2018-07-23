@@ -7,4 +7,4 @@
 
 ## Running the tests
 
-Execute the 'configure-zerobrane.bat' in the installation directory of TerraME. Thereafter, run the Zerobrane Studio go to Project > Lua Interpreter and choose TerraME.
+Execute the 'configure-zerobrane.bat' in the installation directory of TerraME. Thereafter, run the Zerobrane Studio and in the menu go to 'Project' > 'Lua Interpreter' and choose TerraME.
