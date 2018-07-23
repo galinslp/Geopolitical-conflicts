@@ -2,8 +2,8 @@
 
 ### Prerequisites
 
-Download and install the Zerobrane Studio: https://studio.zerobrane.com/download?not-this-time [https://studio.zerobrane.com]
-Download and install the TerraME: https://github.com/TerraME/terrame/releases [https://github.com/TerraME]
+- Download and install the Zerobrane Studio: https://studio.zerobrane.com/download?not-this-time
+- Download and install the TerraME: https://github.com/TerraME/terrame/releases
 
 ## Running the tests
 
